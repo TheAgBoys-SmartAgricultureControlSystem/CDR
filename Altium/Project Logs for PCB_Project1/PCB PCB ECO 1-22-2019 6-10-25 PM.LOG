@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=FL1 Old Footprint=0201 Real New Footprint=0603
+Change Component Footprint: Designator=L14 Old Footprint=0201 Real New Footprint=0603
+Change Component Footprint: Designator=L21 Old Footprint=0201 Real New Footprint=0603
+Change Component Footprint: Designator=L13 Old Footprint=0201 Real New Footprint=0805 Real
+Change Component Footprint: Designator=C12 Old Footprint=0402 Real New Footprint=0805 Real
+Change Component Footprint: Designator=C21 Old Footprint=0402 Real New Footprint=0805 Real
+Change Component Footprint: Designator=C34 Old Footprint=0402 Real New Footprint=0805 Real
+Change Component Footprint: Designator=L33 Old Footprint=0402 Real New Footprint=0805 Real
+Change Component Footprint: Designator=L34 Old Footprint=0402 Real New Footprint=0805 Real
+Change Component Footprint: Designator=C35 Old Footprint=0402 Real New Footprint=1206 Real
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

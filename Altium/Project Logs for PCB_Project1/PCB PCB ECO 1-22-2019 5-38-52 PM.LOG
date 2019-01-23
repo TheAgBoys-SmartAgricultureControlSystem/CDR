@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C32 Old Footprint=0402 Real New Footprint=0805 Real
+Change Component Footprint: Designator=C41 Old Footprint=0402 Real New Footprint=0805 Real
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
