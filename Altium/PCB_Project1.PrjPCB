@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BLLOFJIY
 
 [Document6]
-DocumentPath=PoC.Cam
+DocumentPath=CDR.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,7 +140,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=PoC Drill.Cam
+DocumentPath=CDR Drill.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -218,82 +218,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument16]
 DocumentPath=Project Outputs for PCB_Project1\PCB.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for PCB_Project1\PCB_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for PCB_Project1\PCB_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for PCB_Project1\PCB_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [SearchPath1]

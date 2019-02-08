@@ -54,3 +54,5 @@
 [0129/154904:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0129/154909:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0129/160951:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0208/125048:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0208/125053:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
